@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%2300FFFF?logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 
 ## 🚀 Project Overview
 
