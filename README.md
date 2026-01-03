@@ -7,7 +7,7 @@
 ## 🚀 Project Overview
 
 This repository contains a **FastAPI-based REST API** Project. The goal of this project is to demonstrate practical backend development using FastAPI, including database integration, authentication, file uploads, 
-and API operations that you'd expect in a production-ready service.
+and API operatiions.
 
 ---
 
